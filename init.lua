@@ -31,6 +31,17 @@ minetest.register_ore({
 	y_max = -30000,
 })
 
+minetest.register_ore({
+	ore_type = "scatter",
+	ore = "bedrock:bedrock",
+	wherein = "air",
+	clust_scarcity = 1,
+	clust_num_ores = 5,
+	clust_size = 2,
+	y_min = -30656,
+	y_max = -30000,
+})
+
 minetest.register_node("bedrock:bedrock", {
 	description = "Bedrock",
 	tiles = {"bedrock_bedrock.png"},
