@@ -1,4 +1,5 @@
 # Bedrock
+Limitador de mundos para minetest editado por josegamestest "joseanastacio"
 
 Bedrock for [Minetest](https://www.minetest.net/), a free and open source infinite
 world block sandbox game.
